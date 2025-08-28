@@ -7,7 +7,7 @@
 
 ---
 
-## Tecnologias que tenho experiência 
+## 💼 Tecnologias e Ferramentas
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
@@ -34,7 +34,7 @@
 
 ---
 
-## Tecnologias que estou estudando
+## Tecnologias que estou estudando no momento
 
 <div style="display: flex; gap: 10px;">
 
